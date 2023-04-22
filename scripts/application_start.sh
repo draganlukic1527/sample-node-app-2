@@ -3,7 +3,7 @@
 #give permission for everything in the express-app directory
 sudo chmod -R 777 /home/ec2-user/sample-app
 
-#navigate into our working directory where we have all our github files
+#navigate into our working directory where we have all our github files check
 cd /home/ec2-user/sample-app
 
 #add npm and node to path
