@@ -21,6 +21,6 @@ app.get("/products", (req, res) => {
 	]);
 });
 
-app.listen(port, "0.0.0.0", () => {
-	console.log(`Example app listening at http://localhost:${port}`);
+app.listen(port, () => {
+	console.log(`Demo app is up and listening to port: ${port}`);
 });
